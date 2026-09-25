@@ -1,7 +1,7 @@
 # iris-pi
 
 
-# Project Jarvis
+# Project Iris
 
 ⚠️ **Archived Project**  
 This project is archived and no longer under active development.
